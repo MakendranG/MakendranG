@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<img src="https://komarev.com/ghpvc/?username=makendrang&style=flat-square&color=blue" alt=""/>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=makendrang&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **MakendranG/makendrang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
