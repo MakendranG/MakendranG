@@ -14,4 +14,4 @@ jobs:
       - uses: makendrang/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/makendrang,https://medium.com/feed/@makendrang,https://makendran.hashnode.dev/rss.xml"
+          feed_list: "https://dev.to/feed/makendrang"
