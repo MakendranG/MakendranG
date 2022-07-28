@@ -7,6 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to run scripts in your virtual machine with the Run command](https://makendran.hashnode.dev/how-to-run-scripts-in-your-virtual-machine-with-the-run-command)
+- [13 Types of Software Development](https://makendran.hashnode.dev/13-types-of-software-development)
+- [What is the software development life cycle?](https://makendran.hashnode.dev/what-is-the-software-development-life-cycle)
+- [What is Mobile Application Development?](https://makendran.hashnode.dev/what-is-mobile-application-development)
+- [DevSecOps best practices](https://makendran.hashnode.dev/devsecops-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 
