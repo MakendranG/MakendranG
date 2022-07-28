@@ -10,7 +10,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-[![Makendran Medium](https://github-readme-medium.vercel.app/?username=makendrang)](https://medium.com/@makendrang)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
