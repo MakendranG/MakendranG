@@ -7,11 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why developers prefer to build on open source platforms?](https://makendran.hashnode.dev/why-developers-prefer-to-build-on-open-source-platforms)
 - [7 Software Development Methodologies](https://makendran.hashnode.dev/7-software-development-methodologies)
 - [How to run scripts in your virtual machine with the Run command](https://makendran.hashnode.dev/how-to-run-scripts-in-your-virtual-machine-with-the-run-command)
 - [13 Types of Software Development](https://makendran.hashnode.dev/13-types-of-software-development)
 - [What is the software development life cycle?](https://makendran.hashnode.dev/what-is-the-software-development-life-cycle)
-- [What is Mobile Application Development?](https://makendran.hashnode.dev/what-is-mobile-application-development)
 <!-- BLOG-POST-LIST:END -->
 
 
