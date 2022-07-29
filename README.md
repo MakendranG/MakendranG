@@ -7,11 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [7 Software Development Methodologies](https://makendran.hashnode.dev/7-software-development-methodologies)
-- [How to run scripts in your virtual machine with the Run command](https://makendran.hashnode.dev/how-to-run-scripts-in-your-virtual-machine-with-the-run-command)
-- [13 Types of Software Development](https://makendran.hashnode.dev/13-types-of-software-development)
-- [What is the software development life cycle?](https://makendran.hashnode.dev/what-is-the-software-development-life-cycle)
-- [What is Mobile Application Development?](https://makendran.hashnode.dev/what-is-mobile-application-development)
+- [13 Types of Software Development](https://dev.to/makendrang/13-types-of-software-development-kbc)
+- [Typical machine learning applications we use in the real world](https://medium.com/@makendrang/typical-machine-learning-applications-we-use-in-the-real-world-25f9036cf30f?source=rss-eaa22dc681e3------2)
+- [Typical machine learning applications we use in the real world](https://makendran.hashnode.dev/typical-machine-learning-applications-we-use-in-the-real-world)
+- [What is machine learning?](https://makendran.hashnode.dev/what-is-machine-learning)
+- [Why Software Testing is Important](https://makendran.hashnode.dev/why-software-testing-is-important)
 <!-- BLOG-POST-LIST:END -->
 
 
