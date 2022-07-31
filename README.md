@@ -7,11 +7,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How DevOps works](https://medium.com/@makendrang/how-devops-works-9983cc9ec8eb?source=rss-eaa22dc681e3------2)
 - [13 Types of Software Development](https://dev.to/makendrang/13-types-of-software-development-kbc)
 - [Typical machine learning applications we use in the real world](https://medium.com/@makendrang/typical-machine-learning-applications-we-use-in-the-real-world-25f9036cf30f?source=rss-eaa22dc681e3------2)
 - [Typical machine learning applications we use in the real world](https://makendran.hashnode.dev/typical-machine-learning-applications-we-use-in-the-real-world)
 - [What is machine learning?](https://makendran.hashnode.dev/what-is-machine-learning)
-- [Why Software Testing is Important](https://makendran.hashnode.dev/why-software-testing-is-important)
 <!-- BLOG-POST-LIST:END -->
 
 
