@@ -12,11 +12,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Reasons You Should Join a Community of Professionals](https://medium.com/@makendrang/10-reasons-you-should-join-a-community-of-professionals-c6cc5f38e4a1?source=rss-eaa22dc681e3------2)
 - [AWS DevOps Tools](https://medium.com/@makendrang/aws-devops-tools-bf1dc5a3b886?source=rss-eaa22dc681e3------2)
 - [How DevOps works](https://medium.com/@makendrang/how-devops-works-9983cc9ec8eb?source=rss-eaa22dc681e3------2)
 - [13 Types of Software Development](https://dev.to/makendrang/13-types-of-software-development-kbc)
 - [Typical machine learning applications we use in the real world](https://medium.com/@makendrang/typical-machine-learning-applications-we-use-in-the-real-world-25f9036cf30f?source=rss-eaa22dc681e3------2)
-- [Typical machine learning applications we use in the real world](https://makendran.hashnode.dev/typical-machine-learning-applications-we-use-in-the-real-world)
 <!-- BLOG-POST-LIST:END -->
 
 
