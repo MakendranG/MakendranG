@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Makendran G</h1>
+
+
+<h1 align="center"><p align="left"> <img src="https://github.com/MakendranG/MakendranG/blob/7f5b379f8c58a4f45cd821fcffbf9262e84bdb8b/header.png" alt="makendrang" /> </p></h1>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makendrang&label=Profile%20views&color=0e75b6&style=flat" alt="makendrang" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makendrang" alt="makendrang" /></a> </p>
