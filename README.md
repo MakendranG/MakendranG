@@ -41,5 +41,5 @@
 
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=makendrang&theme=minimal" alt="makendrang" /></p>
 
-https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal
+
 
