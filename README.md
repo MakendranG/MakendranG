@@ -12,11 +12,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Monitor virtual machine performance with Azure Monitor VM Insights](https://makendran.hashnode.dev/monitor-virtual-machine-performance-with-azure-monitor-vm-insights)
 - [How to run scripts in your virtual machine with the Run command](https://dev.to/makendrang/how-to-run-scripts-in-your-virtual-machine-with-the-run-command-57a3)
 - [Improve application scalability and resiliency with Azure Load Balancer](https://medium.com/@makendrang/improve-application-scalability-and-resiliency-with-azure-load-balancer-3b6f8c18129b?source=rss-eaa22dc681e3------2)
 - [10 Reasons You Should Join a Community of Professionals](https://medium.com/@makendrang/10-reasons-you-should-join-a-community-of-professionals-c6cc5f38e4a1?source=rss-eaa22dc681e3------2)
 - [AWS DevOps Tools](https://medium.com/@makendrang/aws-devops-tools-bf1dc5a3b886?source=rss-eaa22dc681e3------2)
-- [How DevOps works](https://medium.com/@makendrang/how-devops-works-9983cc9ec8eb?source=rss-eaa22dc681e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
