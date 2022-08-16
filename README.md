@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the software development life cycle?](https://dev.to/makendrang/what-is-the-software-development-life-cycle-4op2)
 - [Just-in-time Worker Nodes with Karpenter](https://dev.to/makendrang/just-in-time-worker-nodes-with-karpenter-1711)
 - [Just-in-time Worker Nodes with Karpenter](https://makendran.hashnode.dev/just-in-time-worker-nodes-with-karpenter)
 - [How to Leverage Kubecost to view real-time K8s spend data in Azure](https://medium.com/@makendrang/how-to-leverage-kubecost-to-view-real-time-k8s-spend-data-in-azure-ba350638bc68?source=rss-eaa22dc681e3------2)
 - [Monitor virtual machine performance with Azure Monitor VM Insights](https://makendran.hashnode.dev/monitor-virtual-machine-performance-with-azure-monitor-vm-insights)
-- [How to run scripts in your virtual machine with the Run command](https://dev.to/makendrang/how-to-run-scripts-in-your-virtual-machine-with-the-run-command-57a3)
 <!-- BLOG-POST-LIST:END -->
 
 
