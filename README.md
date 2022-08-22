@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Most Entertaining How to Be a Software Engineer Influencers You Need to Follow](https://makendran.hashnode.dev/the-most-entertaining-how-to-be-a-software-engineer-influencers-you-need-to-follow)
 - [Nhost: The Perfect Backend 101: The Essential Guide](https://makendran.hashnode.dev/nhost-the-perfect-backend-101-the-essential-guide)
 - [A Deep Dive Into Host a Web Application With Azure App Service](https://makendran.hashnode.dev/a-deep-dive-into-host-a-web-application-with-azure-app-service)
 - [AWS Community Builders Program](https://dev.to/makendrang/aws-community-builders-program-31d8)
 - [AWS Community Builders Program](https://makendran.hashnode.dev/aws-community-builders-program)
-- [What is the software development life cycle?](https://dev.to/makendrang/what-is-the-software-development-life-cycle-4op2)
 <!-- BLOG-POST-LIST:END -->
 
 
