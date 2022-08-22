@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Nhost: The Perfect Backend 101: The Essential Guide](https://makendran.hashnode.dev/nhost-the-perfect-backend-101-the-essential-guide)
 - [A Deep Dive Into Host a Web Application With Azure App Service](https://makendran.hashnode.dev/a-deep-dive-into-host-a-web-application-with-azure-app-service)
 - [AWS Community Builders Program](https://dev.to/makendrang/aws-community-builders-program-31d8)
 - [AWS Community Builders Program](https://makendran.hashnode.dev/aws-community-builders-program)
 - [What is the software development life cycle?](https://dev.to/makendrang/what-is-the-software-development-life-cycle-4op2)
-- [Just-in-time Worker Nodes with Karpenter](https://dev.to/makendrang/just-in-time-worker-nodes-with-karpenter-1711)
 <!-- BLOG-POST-LIST:END -->
 
 
