@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is Machine Learning? Secrets Exposed! Here’s the Juicy Details](https://medium.com/@makendrang/what-is-machine-learning-secrets-exposed-heres-the-juicy-details-b7d8b83049d7?source=rss-eaa22dc681e3------2)
 - [What is Mobile Application Development?](https://dev.to/makendrang/what-is-mobile-application-development-56k7)
 - [The Fascinating Science of 9 Tips to Become a Software Developer](https://makendran.hashnode.dev/the-fascinating-science-of-9-tips-to-become-a-software-developer)
 - [Conquer Your Fear of You Can Learn From a Failed Job Interview in 7 Simple Steps](https://makendran.hashnode.dev/conquer-your-fear-of-you-can-learn-from-a-failed-job-interview-in-7-simple-steps)
 - [5 Powerful Habits to Master for Success in Strengthen Your PROFESSIONAL PORTFOLIO](https://makendran.hashnode.dev/5-powerful-habits-to-master-for-success-in-strengthen-your-professional-portfolio)
-- [The Most Entertaining How to Be a Software Engineer Influencers You Need to Follow](https://makendran.hashnode.dev/the-most-entertaining-how-to-be-a-software-engineer-influencers-you-need-to-follow)
 <!-- BLOG-POST-LIST:END -->
 
 
