@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Community Builders Program](https://medium.com/@makendrang/aws-community-builders-program-8a5064c7f143?source=rss-eaa22dc681e3------2)
 - [7 Software Development Methodologies](https://dev.to/makendrang/7-software-development-methodologies-5fc5)
 - [A Deep Dive Into Introduction to Computer Networking](https://makendran.hashnode.dev/a-deep-dive-into-introduction-to-computer-networking)
 - [What Is Machine Learning? Secrets Exposed! Here’s the Juicy Details](https://medium.com/@makendrang/what-is-machine-learning-secrets-exposed-heres-the-juicy-details-b7d8b83049d7?source=rss-eaa22dc681e3------2)
 - [What is Mobile Application Development?](https://dev.to/makendrang/what-is-mobile-application-development-56k7)
-- [The Fascinating Science of 9 Tips to Become a Software Developer](https://makendran.hashnode.dev/the-fascinating-science-of-9-tips-to-become-a-software-developer)
 <!-- BLOG-POST-LIST:END -->
 
 
