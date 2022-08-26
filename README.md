@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Beginner&#39;s Guide to 25 Best Developer Tools You Can’t Do Without](https://makendran.hashnode.dev/the-beginners-guide-to-25-best-developer-tools-you-cant-do-without)
 - [12 Unbelievable Things You Never Knew About What to Do When You’re Stuck on a Coding Problem](https://makendran.hashnode.dev/12-unbelievable-things-you-never-knew-about-what-to-do-when-youre-stuck-on-a-coding-problem)
 - [AWS Community Builders Program](https://medium.com/@makendrang/aws-community-builders-program-8a5064c7f143?source=rss-eaa22dc681e3------2)
 - [7 Software Development Methodologies](https://dev.to/makendrang/7-software-development-methodologies-5fc5)
 - [A Deep Dive Into Introduction to Computer Networking](https://makendran.hashnode.dev/a-deep-dive-into-introduction-to-computer-networking)
-- [What Is Machine Learning? Secrets Exposed! Here’s the Juicy Details](https://medium.com/@makendrang/what-is-machine-learning-secrets-exposed-heres-the-juicy-details-b7d8b83049d7?source=rss-eaa22dc681e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
