@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why developers prefer to build on open source platforms?](https://dev.to/makendrang/why-developers-prefer-to-build-on-open-source-platforms-52c2)
+- [5 Powerful Habits to Master for Success in Strengthen Your PROFESSIONAL PORTFOLIO](https://medium.com/@makendrang/5-powerful-habits-to-master-for-success-in-strengthen-your-professional-portfolio-2db6c1d1b86a?source=rss-eaa22dc681e3------2)
 - [The Beginner&#39;s Guide to 25 Best Developer Tools You Can’t Do Without](https://makendran.hashnode.dev/the-beginners-guide-to-25-best-developer-tools-you-cant-do-without)
 - [12 Unbelievable Things You Never Knew About What to Do When You’re Stuck on a Coding Problem](https://makendran.hashnode.dev/12-unbelievable-things-you-never-knew-about-what-to-do-when-youre-stuck-on-a-coding-problem)
 - [AWS Community Builders Program](https://medium.com/@makendrang/aws-community-builders-program-8a5064c7f143?source=rss-eaa22dc681e3------2)
-- [7 Software Development Methodologies](https://dev.to/makendrang/7-software-development-methodologies-5fc5)
-- [A Deep Dive Into Introduction to Computer Networking](https://makendran.hashnode.dev/a-deep-dive-into-introduction-to-computer-networking)
 <!-- BLOG-POST-LIST:END -->
 
 
