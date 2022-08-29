@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How Top 17 New Technology Trends for 2022 Saved My Life](https://makendran.hashnode.dev/how-top-17-new-technology-trends-for-2022-saved-my-life)
+- [The Most Incredible Article About Top 17 New Technology Trends for 2022 You&#39;ll Ever Read](https://makendran.hashnode.dev/the-most-incredible-article-about-top-17-new-technology-trends-for-2022-youll-ever-read)
 - [Why developers prefer to build on open source platforms?](https://dev.to/makendrang/why-developers-prefer-to-build-on-open-source-platforms-52c2)
 - [5 Powerful Habits to Master for Success in Strengthen Your PROFESSIONAL PORTFOLIO](https://medium.com/@makendrang/5-powerful-habits-to-master-for-success-in-strengthen-your-professional-portfolio-2db6c1d1b86a?source=rss-eaa22dc681e3------2)
 - [The Beginner&#39;s Guide to 25 Best Developer Tools You Can’t Do Without](https://makendran.hashnode.dev/the-beginners-guide-to-25-best-developer-tools-you-cant-do-without)
