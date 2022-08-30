@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Software Testing is Important](https://dev.to/makendrang/why-software-testing-is-important-2129)
 - [The Most Incredible Article About Top 17 New Technology Trends for 2022 You&#39;ll Ever Read](https://makendran.hashnode.dev/the-most-incredible-article-about-top-17-new-technology-trends-for-2022-youll-ever-read)
 - [Why developers prefer to build on open source platforms?](https://dev.to/makendrang/why-developers-prefer-to-build-on-open-source-platforms-52c2)
 - [5 Powerful Habits to Master for Success in Strengthen Your PROFESSIONAL PORTFOLIO](https://medium.com/@makendrang/5-powerful-habits-to-master-for-success-in-strengthen-your-professional-portfolio-2db6c1d1b86a?source=rss-eaa22dc681e3------2)
 - [The Beginner&#39;s Guide to 25 Best Developer Tools You Can’t Do Without](https://makendran.hashnode.dev/the-beginners-guide-to-25-best-developer-tools-you-cant-do-without)
-- [12 Unbelievable Things You Never Knew About What to Do When You’re Stuck on a Coding Problem](https://makendran.hashnode.dev/12-unbelievable-things-you-never-knew-about-what-to-do-when-youre-stuck-on-a-coding-problem)
 <!-- BLOG-POST-LIST:END -->
 
 
