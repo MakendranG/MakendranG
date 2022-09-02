@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Fascinating Behind-the-Scenes Look at How I Built a Harness CI Pipeline](https://makendran.hashnode.dev/a-fascinating-behind-the-scenes-look-at-how-i-built-a-harness-ci-pipeline)
 - [The Most Boring Article About Who Needs 100 Followers? You’ll Ever Read](https://medium.com/@makendrang/the-most-boring-article-about-who-needs-100-followers-youll-ever-read-d14474884fd8?source=rss-eaa22dc681e3------2)
 - [The Most Popular 13 Types of Software Development](https://medium.com/@makendrang/the-most-popular-13-types-of-software-development-7cb421a770e8?source=rss-eaa22dc681e3------2)
 - [Why Software Testing is Important](https://dev.to/makendrang/why-software-testing-is-important-2129)
 - [The Most Incredible Article About Top 17 New Technology Trends for 2022 You&#39;ll Ever Read](https://makendran.hashnode.dev/the-most-incredible-article-about-top-17-new-technology-trends-for-2022-youll-ever-read)
-- [Why developers prefer to build on open source platforms?](https://dev.to/makendrang/why-developers-prefer-to-build-on-open-source-platforms-52c2)
 <!-- BLOG-POST-LIST:END -->
 
 
