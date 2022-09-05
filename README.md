@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [An Intro to DevOps on AWS in Under 2 Minutes](https://medium.com/@makendrang/an-intro-to-devops-on-aws-in-under-10-minutes-a1f00310ba74?source=rss-eaa22dc681e3------2)
 - [How To Create An EC2 Instance On AWS Using Terraform](https://dev.to/aws-builders/how-to-create-an-ec2-instance-on-aws-using-terraform-4lg)
 - [A Fascinating Behind-the-Scenes Look at How I Built a Harness CI Pipeline](https://makendran.hashnode.dev/a-fascinating-behind-the-scenes-look-at-how-i-built-a-harness-ci-pipeline)
 - [The Most Boring Article About Who Needs 100 Followers? You’ll Ever Read](https://medium.com/@makendrang/the-most-boring-article-about-who-needs-100-followers-youll-ever-read-d14474884fd8?source=rss-eaa22dc681e3------2)
 - [The Most Popular 13 Types of Software Development](https://medium.com/@makendrang/the-most-popular-13-types-of-software-development-7cb421a770e8?source=rss-eaa22dc681e3------2)
-- [Why Software Testing is Important](https://dev.to/makendrang/why-software-testing-is-important-2129)
 <!-- BLOG-POST-LIST:END -->
 
 
