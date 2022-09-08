@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Ways to Secure Apis Secrets Exposed! Here’s the Juicy Details](https://medium.com/@makendrang/ways-to-secure-apis-secrets-exposed-heres-the-juicy-details-1c886da6b40a?source=rss-eaa22dc681e3------2)
 - [How to apply AWS EC2 with Boto3 &amp; Python](https://dev.to/aws-builders/how-to-apply-aws-ec2-with-boto3-python-3jkk)
 - [The Essential Guide to Web Application Security and Why Is It Important](https://medium.com/@makendrang/the-essential-guide-to-web-application-security-and-why-is-it-important-da18809d444a?source=rss-eaa22dc681e3------2)
 - [An Intro to DevOps on AWS in Under 2 Minutes](https://medium.com/@makendrang/an-intro-to-devops-on-aws-in-under-10-minutes-a1f00310ba74?source=rss-eaa22dc681e3------2)
 - [How To Create An EC2 Instance On AWS Using Terraform](https://dev.to/aws-builders/how-to-create-an-ec2-instance-on-aws-using-terraform-4lg)
-- [A Fascinating Behind-the-Scenes Look at How I Built a Harness CI Pipeline](https://makendran.hashnode.dev/a-fascinating-behind-the-scenes-look-at-how-i-built-a-harness-ci-pipeline)
 <!-- BLOG-POST-LIST:END -->
 
 
