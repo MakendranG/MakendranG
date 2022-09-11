@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Conquer Your Fear of You Can Learn From a Failed Job Interview in 7 Simple Steps](https://medium.com/@makendrang/conquer-your-fear-of-you-can-learn-from-a-failed-job-interview-in-7-simple-steps-93069812bced?source=rss-eaa22dc681e3------2)
 - [Overview of Pulumi and Its Challenge Tutorial 101: The Essential Guide](https://makendran.hashnode.dev/overview-of-pulumi-and-its-challenge-tutorial-101-the-essential-guide)
 - [Overview of 11 AWS Developer Tools](https://dev.to/aws-builders/overview-of-11-aws-developer-tools-53hf)
 - [Ways to Secure Apis Secrets Exposed! Here’s the Juicy Details](https://medium.com/@makendrang/ways-to-secure-apis-secrets-exposed-heres-the-juicy-details-1c886da6b40a?source=rss-eaa22dc681e3------2)
 - [How to apply AWS EC2 with Boto3 &amp; Python](https://dev.to/aws-builders/how-to-apply-aws-ec2-with-boto3-python-3jkk)
-- [The Essential Guide to Web Application Security and Why Is It Important](https://medium.com/@makendrang/the-essential-guide-to-web-application-security-and-why-is-it-important-da18809d444a?source=rss-eaa22dc681e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
