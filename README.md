@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Getting Started With Digitalocean Functions in Ten Minutes](https://makendran.hashnode.dev/learn-getting-started-with-digitalocean-functions-in-ten-minutes)
 - [Learn What Is the Software Development Life Cycle? in Ten Minutes](https://medium.com/@makendrang/learn-what-is-the-software-development-life-cycle-in-ten-minutes-388d42da639d?source=rss-eaa22dc681e3------2)
 - [What is Amazon EKS Connector ?.](https://dev.to/aws-builders/what-is-amazon-eks-connector--bne)
 - [What is machine learning?](https://dev.to/makendrang/what-is-machine-learning-1mkl)
 - [Conquer Your Fear of You Can Learn From a Failed Job Interview in 7 Simple Steps](https://medium.com/@makendrang/conquer-your-fear-of-you-can-learn-from-a-failed-job-interview-in-7-simple-steps-93069812bced?source=rss-eaa22dc681e3------2)
-- [Overview of Pulumi and Its Challenge Tutorial 101: The Essential Guide](https://makendran.hashnode.dev/overview-of-pulumi-and-its-challenge-tutorial-101-the-essential-guide)
 <!-- BLOG-POST-LIST:END -->
 
 
