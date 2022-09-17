@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn Getting Started With Digitalocean Functions in Ten Minutes](https://makendran.hashnode.dev/learn-getting-started-with-digitalocean-functions-in-ten-minutes)
+- [Learn Getting Started With Digitalocean Functions in Ten Minutes](https://makendran.study/learn-getting-started-with-digitalocean-functions-in-ten-minutes)
 - [Learn What Is the Software Development Life Cycle? in Ten Minutes](https://makendrang.medium.com/learn-what-is-the-software-development-life-cycle-in-ten-minutes-388d42da639d?source=rss-eaa22dc681e3------2)
 - [What is Amazon EKS Connector ?.](https://dev.to/aws-builders/what-is-amazon-eks-connector--bne)
 - [What is machine learning?](https://dev.to/makendrang/what-is-machine-learning-1mkl)
