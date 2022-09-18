@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Essential Guide to 5 Key Importance of Cybersecurity](https://makendran.hashnode.dev/the-essential-guide-to-5-key-importance-of-cybersecurity)
 - [Learn Getting Started With Digitalocean Functions in Ten Minutes](https://makendran.hashnode.dev/learn-getting-started-with-digitalocean-functions-in-ten-minutes)
 - [Learn What Is the Software Development Life Cycle? in Ten Minutes](https://makendrang.medium.com/learn-what-is-the-software-development-life-cycle-in-ten-minutes-388d42da639d?source=rss-eaa22dc681e3------2)
 - [What is Amazon EKS Connector ?.](https://dev.to/aws-builders/what-is-amazon-eks-connector--bne)
 - [What is machine learning?](https://dev.to/makendrang/what-is-machine-learning-1mkl)
-- [Conquer Your Fear of You Can Learn From a Failed Job Interview in 7 Simple Steps](https://makendrang.medium.com/conquer-your-fear-of-you-can-learn-from-a-failed-job-interview-in-7-simple-steps-93069812bced?source=rss-eaa22dc681e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 
