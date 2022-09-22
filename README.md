@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Essential Guide to Overview and Benefits of Gateway Load Balancer](https://makendran.hashnode.dev/the-essential-guide-to-overview-and-benefits-of-gateway-load-balancer)
 - [The Ultimate Guide to Web Application Security Best Practices](https://makendrang.medium.com/web-application-security-best-practices-cd2f78248a?source=rss-eaa22dc681e3------2)
 - [Configuring a Static Website With S3 &amp; Cloudfront Explained](https://makendran.hashnode.dev/configuring-a-static-website-with-s3-cloudfront-explained)
 - [What is AWS Cloud WAN?](https://dev.to/makendrang/what-is-aws-cloud-wan-5e4k)
 - [What is use of Recycle Bin in AWS EBS Snapshots ?.](https://dev.to/aws-builders/what-is-use-of-recycle-bin-in-aws-ebs-snapshots--585m)
-- [Learn How to Deploy Website Using Hugo on AWS Amplify in Ten Minutes](https://makendran.hashnode.dev/learn-how-to-deploy-website-using-hugo-on-aws-amplify-in-ten-minutes)
 <!-- BLOG-POST-LIST:END -->
 
 
