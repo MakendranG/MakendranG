@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Typical machine learning applications we use in the real world](https://dev.to/makendrang/typical-machine-learning-applications-we-use-in-the-real-world-4mk9)
 - [Why use AWS for DevOps?](https://dev.to/aws-builders/why-use-aws-for-devops-39d8)
 - [The Essential Guide to Overview and Benefits of Gateway Load Balancer](https://makendran.hashnode.dev/the-essential-guide-to-overview-and-benefits-of-gateway-load-balancer)
 - [The Ultimate Guide to Web Application Security Best Practices](https://makendrang.medium.com/web-application-security-best-practices-cd2f78248a?source=rss-eaa22dc681e3------2)
 - [Configuring a Static Website With S3 &amp; Cloudfront Explained](https://makendran.hashnode.dev/configuring-a-static-website-with-s3-cloudfront-explained)
-- [What is AWS Cloud WAN?](https://dev.to/makendrang/what-is-aws-cloud-wan-5e4k)
 <!-- BLOG-POST-LIST:END -->
 
 
