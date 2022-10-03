@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Essential Guide to Create a Kubernetes Cluster Using AWS EKSCLI](https://dev.to/aws-builders/the-essential-guide-to-create-a-kubernetes-cluster-using-aws-ekscli-5f89)
 - [AWS Devops Tools 101: The Essential Guide](https://dev.to/aws-builders/aws-devops-tools-101-the-essential-guide-4jcj)
 - [Memphis: Low-code real-time data processing platform](https://makendran.hashnode.dev/memphis-low-code-real-time-data-processing-platform)
 - [Typical machine learning applications we use in the real world](https://dev.to/makendrang/typical-machine-learning-applications-we-use-in-the-real-world-4mk9)
 - [Why use AWS for DevOps?](https://dev.to/aws-builders/why-use-aws-for-devops-39d8)
-- [The Essential Guide to Overview and Benefits of Gateway Load Balancer](https://makendran.hashnode.dev/the-essential-guide-to-overview-and-benefits-of-gateway-load-balancer)
 <!-- BLOG-POST-LIST:END -->
 
 
