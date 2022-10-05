@@ -19,10 +19,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [A Deep Dive Into Just-in-Time Worker Nodes With Karpenter](https://dev.to/aws-builders/a-deep-dive-into-just-in-time-worker-nodes-with-karpenter-2b5m)
+- [Monitor virtual machine performance with Azure Monitor VM Insights](https://makendrang.medium.com/monitor-virtual-machine-performance-with-azure-monitor-vm-insights-e80b3e937d60?source=rss-eaa22dc681e3------2)
 - [Monitor virtual machine performance with Azure Monitor VM Insights](https://dev.to/makendrang/monitor-virtual-machine-performance-with-azure-monitor-vm-insights-4ie1)
 - [The Essential Guide to Create a Kubernetes Cluster Using AWS EKSCLI](https://dev.to/aws-builders/the-essential-guide-to-create-a-kubernetes-cluster-using-aws-ekscli-5f89)
 - [AWS Devops Tools 101: The Essential Guide](https://dev.to/aws-builders/aws-devops-tools-101-the-essential-guide-4jcj)
-- [Memphis: Low-code real-time data processing platform](https://makendran.hashnode.dev/memphis-low-code-real-time-data-processing-platform)
 <!-- BLOG-POST-LIST:END -->
 
 
