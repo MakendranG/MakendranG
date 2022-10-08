@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn How to Deploy Website Using Hugo on AWS Amplify in Ten Minutes](https://dev.to/aws-builders/learn-how-to-deploy-website-using-hugo-on-aws-amplify-in-ten-minutes-1g3o)
 - [What is the best way to prepare for the MS-900 Exam?](https://makendrang.medium.com/what-is-the-best-way-to-prepare-for-the-ms-900-exam-35e64e21671b?source=rss-eaa22dc681e3------2)
 - [A Deep Dive Into Just-in-Time Worker Nodes With Karpenter](https://dev.to/aws-builders/a-deep-dive-into-just-in-time-worker-nodes-with-karpenter-2b5m)
 - [Monitor virtual machine performance with Azure Monitor VM Insights](https://makendrang.medium.com/monitor-virtual-machine-performance-with-azure-monitor-vm-insights-e80b3e937d60?source=rss-eaa22dc681e3------2)
 - [Monitor virtual machine performance with Azure Monitor VM Insights](https://dev.to/makendrang/monitor-virtual-machine-performance-with-azure-monitor-vm-insights-4ie1)
-- [The Essential Guide to Create a Kubernetes Cluster Using AWS EKSCLI](https://dev.to/aws-builders/the-essential-guide-to-create-a-kubernetes-cluster-using-aws-ekscli-5f89)
 <!-- BLOG-POST-LIST:END -->
 
 
