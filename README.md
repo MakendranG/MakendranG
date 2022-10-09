@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Configuring a Static Website With S3 &amp; Cloudfront Explained](https://dev.to/aws-builders/configuring-a-static-website-with-s3-cloudfront-explained-4nnm)
 - [Introduction to AWS Cloud WAN](https://dev.to/aws-builders/introduction-to-aws-cloud-wan-2g1m)
 - [What is the AWS Community Builders Program?](https://dev.to/aws-builders/what-is-the-aws-community-builders-program-443a)
 - [Learn How to Deploy Website Using Hugo on AWS Amplify in Ten Minutes](https://dev.to/aws-builders/learn-how-to-deploy-website-using-hugo-on-aws-amplify-in-ten-minutes-1g3o)
 - [What is the best way to prepare for the MS-900 Exam?](https://makendrang.medium.com/what-is-the-best-way-to-prepare-for-the-ms-900-exam-35e64e21671b?source=rss-eaa22dc681e3------2)
-- [A Deep Dive Into Just-in-Time Worker Nodes With Karpenter](https://dev.to/aws-builders/a-deep-dive-into-just-in-time-worker-nodes-with-karpenter-2b5m)
 <!-- BLOG-POST-LIST:END -->
 
 
