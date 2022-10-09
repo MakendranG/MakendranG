@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to AWS Cloud WAN](https://dev.to/aws-builders/introduction-to-aws-cloud-wan-2g1m)
+- [What is the AWS Community Builders Program?](https://dev.to/aws-builders/what-is-the-aws-community-builders-program-443a)
 - [Learn How to Deploy Website Using Hugo on AWS Amplify in Ten Minutes](https://dev.to/aws-builders/learn-how-to-deploy-website-using-hugo-on-aws-amplify-in-ten-minutes-1g3o)
 - [What is the best way to prepare for the MS-900 Exam?](https://makendrang.medium.com/what-is-the-best-way-to-prepare-for-the-ms-900-exam-35e64e21671b?source=rss-eaa22dc681e3------2)
 - [A Deep Dive Into Just-in-Time Worker Nodes With Karpenter](https://dev.to/aws-builders/a-deep-dive-into-just-in-time-worker-nodes-with-karpenter-2b5m)
-- [Monitor virtual machine performance with Azure Monitor VM Insights](https://makendrang.medium.com/monitor-virtual-machine-performance-with-azure-monitor-vm-insights-e80b3e937d60?source=rss-eaa22dc681e3------2)
-- [Monitor virtual machine performance with Azure Monitor VM Insights](https://dev.to/makendrang/monitor-virtual-machine-performance-with-azure-monitor-vm-insights-4ie1)
 <!-- BLOG-POST-LIST:END -->
 
 
