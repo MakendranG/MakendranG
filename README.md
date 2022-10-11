@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why is everyone building on GitHub?](https://makendran.hashnode.dev/why-is-everyone-building-on-github)
 - [Interact with Azure web applications using the Python SDK](https://makendran.hashnode.dev/interact-with-azure-web-applications-using-the-python-sdk)
 - [Configuring a Static Website With S3 &amp; Cloudfront Explained](https://dev.to/aws-builders/configuring-a-static-website-with-s3-cloudfront-explained-4nnm)
 - [Introduction to AWS Cloud WAN](https://dev.to/aws-builders/introduction-to-aws-cloud-wan-2g1m)
 - [What is the AWS Community Builders Program?](https://dev.to/aws-builders/what-is-the-aws-community-builders-program-443a)
-- [Learn How to Deploy Website Using Hugo on AWS Amplify in Ten Minutes](https://dev.to/aws-builders/learn-how-to-deploy-website-using-hugo-on-aws-amplify-in-ten-minutes-1g3o)
 <!-- BLOG-POST-LIST:END -->
 
 
