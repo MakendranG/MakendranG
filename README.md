@@ -18,11 +18,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy containerized workloads with Amazon Lightsail](https://dev.to/aws-builders/deploy-containerized-workloads-with-amazon-lightsail-m05)
 - [Deploy containerized workloads with Amazon Lightsail](https://makendran.hashnode.dev/deploy-containerized-workloads-with-amazon-lightsail)
 - [The Most Entertaining How to Be a Software Engineer Influencers You Need to Follow](https://dev.to/makendrang/the-most-entertaining-how-to-be-a-software-engineer-influencers-you-need-to-follow-874)
 - [Why is everyone building on GitHub?](https://makendran.hashnode.dev/why-is-everyone-building-on-github)
 - [Interact with Azure web applications using the Python SDK](https://makendran.hashnode.dev/interact-with-azure-web-applications-using-the-python-sdk)
-- [Configuring a Static Website With S3 &amp; Cloudfront Explained](https://dev.to/aws-builders/configuring-a-static-website-with-s3-cloudfront-explained-4nnm)
 <!-- BLOG-POST-LIST:END -->
 
 
