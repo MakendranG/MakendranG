@@ -1,6 +1,9 @@
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;MakendranG+here...;Glad+to+see+you!&center=true&size=30">
+  </a>
+</h1>
 
-
-<h1 align="center"><p align="left"> <img src="https://github.com/MakendranG/MakendranG/blob/7f5b379f8c58a4f45cd821fcffbf9262e84bdb8b/header.png" alt="makendrang" /> </p></h1>
 
 # 💫About Me :
 🔭 I’m currently working on my Skills.\
@@ -63,17 +66,14 @@
 
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=makendrang&theme=vue" alt="makendrang" /></p>
 
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=makendrang&theme=minimal" alt="makendrang" /></p>
+
+<a href="https://github.com/makendrang/github-readme-activity-graph"><img alt="Makendran's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=makendrang&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ---
 
 
-
-<div align="center">
-  
-### Show some ❤️ by starring some of my repositories!
-  
-</div>
+<div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 
 
