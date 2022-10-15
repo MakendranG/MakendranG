@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Amazon Elastic Container Service with Fargate](https://makendran.hashnode.dev/getting-started-with-amazon-elastic-container-service-with-fargate)
 - [Introduction to Amazon Lightsail](https://dev.to/makendrang/introduction-to-amazon-lightsail-1d48)
 - [Deploy containerized workloads with Amazon Lightsail](https://makendrang.medium.com/deploy-containerized-workloads-with-amazon-lightsail-d20627746d18?source=rss-eaa22dc681e3------2)
 - [Deploy containerized workloads with Amazon Lightsail](https://dev.to/aws-builders/deploy-containerized-workloads-with-amazon-lightsail-m05)
 - [Deploy containerized workloads with Amazon Lightsail](https://makendran.hashnode.dev/deploy-containerized-workloads-with-amazon-lightsail)
-- [The Most Entertaining How to Be a Software Engineer Influencers You Need to Follow](https://dev.to/makendrang/the-most-entertaining-how-to-be-a-software-engineer-influencers-you-need-to-follow-874)
 <!-- BLOG-POST-LIST:END -->
 
 
