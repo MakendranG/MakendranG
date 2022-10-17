@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Get Started with Amazon Elastic Container Service with Fargate](https://dev.to/makendrang/getting-started-with-amazon-elastic-container-service-with-fargate-32ko)
 - [Getting Started with AWS Config Rules and Remediation](https://makendrang.medium.com/getting-started-with-aws-config-rules-and-remediation-ff65f0803280?source=rss-eaa22dc681e3------2)
-- [Getting Started with Amazon Elastic Container Service with Fargate](https://dev.to/aws-builders/getting-started-with-amazon-elastic-container-service-with-fargate-2ce2)
 - [Getting Started with AWS Config Rules and Remediation](https://makendran.hashnode.dev/getting-started-with-aws-config-rules-and-remediation)
 - [Getting Started with Amazon Elastic Container Service with Fargate](https://makendran.hashnode.dev/getting-started-with-amazon-elastic-container-service-with-fargate)
+- [Deploy containerized workloads with Amazon Lightsail](https://makendrang.medium.com/deploy-containerized-workloads-with-amazon-lightsail-d20627746d18?source=rss-eaa22dc681e3------2)
+- [Deploy containerized workloads with Amazon Lightsail](https://makendran.hashnode.dev/deploy-containerized-workloads-with-amazon-lightsail)
 <!-- BLOG-POST-LIST:END -->
 
 
