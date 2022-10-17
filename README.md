@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Contributing to Open-Source: My HacktoberFest Experience](https://makendran.hashnode.dev/contributing-to-open-source-my-hacktoberfest-experience)
 - [Get Started with Amazon Elastic Container Service with Fargate](https://dev.to/makendrang/getting-started-with-amazon-elastic-container-service-with-fargate-32ko)
 - [Getting Started with AWS Config Rules and Remediation](https://makendrang.medium.com/getting-started-with-aws-config-rules-and-remediation-ff65f0803280?source=rss-eaa22dc681e3------2)
 - [Getting Started with Amazon Elastic Container Service with Fargate](https://dev.to/aws-builders/getting-started-with-amazon-elastic-container-service-with-fargate-2ce2)
-- [Introduction to Amazon Lightsail](https://dev.to/makendrang/introduction-to-amazon-lightsail-1d48)
-- [Deploy containerized workloads with Amazon Lightsail](https://makendrang.medium.com/deploy-containerized-workloads-with-amazon-lightsail-d20627746d18?source=rss-eaa22dc681e3------2)
+- [Getting Started with AWS Config Rules and Remediation](https://makendran.hashnode.dev/getting-started-with-aws-config-rules-and-remediation)
 <!-- BLOG-POST-LIST:END -->
 
 
