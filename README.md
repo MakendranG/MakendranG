@@ -56,11 +56,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Configuring an Amazon S3 Bucket to Store Signed Assets - Part 1](https://www.youtube.com/watch?v=UH3WrMkNMOE)
 - [Resize an EC2 instance using Systems Manager Automation - Part 3](https://www.youtube.com/watch?v=iILI5Fa2s6c)
 - [Patch Nodes Managed By AWS Systems Manager - Part 2](https://www.youtube.com/watch?v=qwT4wKGcM4c)
 - [Set up AWS Systems Manager using Quick Setup - Part 1](https://www.youtube.com/watch?v=d6N5Sk-5-jg)
 - [Get Started with AWS Config rules and remediation](https://www.youtube.com/watch?v=UiznVmu6UIk)
-- [What Is AWS Config?](https://www.youtube.com/watch?v=o8fUowql3IU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
