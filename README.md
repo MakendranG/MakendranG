@@ -38,6 +38,13 @@
 - [Getting Started with Amazon Elastic Container Service with Fargate](https://dev.to/aws-builders/getting-started-with-amazon-elastic-container-service-with-fargate-2ce2)
 <!-- BLOG-POST-LIST:END -->
 
+### Latest YouTube videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+
 
 
 
