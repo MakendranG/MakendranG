@@ -19,9 +19,9 @@
 
 <p align="left"> <a href="https://twitter.com/makendrang" target="blank"><img src="https://img.shields.io/twitter/follow/makendrang?logo=twitter&style=for-the-badge" alt="makendrang" /></a> </p>
 
-### [Recent Activities](https://github.com/makendrang/github-activity-readme)
-<!--START_SECTION:activity-->
+### Recent Activity
 
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ### Blogs posts
