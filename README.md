@@ -33,16 +33,6 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4915](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/4915) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-2. 🗣 Commented on [#4914](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/4914) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-3. 💪 Opened PR [#4915](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/4915) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-4. ❗️ Opened issue [#4914](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/4914) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-5. 🗣 Commented on [#4912](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/4912) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-6. 🗣 Commented on [#4913](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/4913) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-7. 💪 Opened PR [#4913](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/4913) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-8. ❗️ Opened issue [#4912](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/4912) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-9. 🗣 Commented on [#4910](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/4910) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-10. 🗣 Commented on [#4911](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/4911) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 <!--END_SECTION:activity-->
 
 ---
