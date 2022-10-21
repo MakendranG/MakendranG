@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Get Started with AWS Config Rules and Remediation](https://dev.to/makendrang/get-started-with-aws-config-rules-and-remediation-ip2)
 - [Contributing to Open-Source: My HacktoberFest Experience](https://makendrang.medium.com/contributing-to-open-source-my-hacktoberfest-experience-56f6410caec8?source=rss-eaa22dc681e3------2)
 - [How to Deploy Website Using Hugo on AWS Amplify in Ten Minutes](https://dev.to/makendrang/how-to-deploy-website-using-hugo-on-aws-amplify-in-ten-minutes-2bgi)
 - [Centralized Operations Management on AWS by using AWS System Manager](https://makendran.hashnode.dev/centralized-operations-management-on-aws-by-using-aws-system-manager)
 - [Getting Started with AWS Config Rules and Remediation](https://dev.to/aws-builders/getting-started-with-aws-config-rules-and-remediation-3pjb)
-- [Contributing to Open-Source: My HacktoberFest Experience](https://makendran.hashnode.dev/contributing-to-open-source-my-hacktoberfest-experience)
 <!-- BLOG-POST-LIST:END -->
 
 ---
