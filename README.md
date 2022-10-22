@@ -58,9 +58,9 @@
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Configuring a Signing Profile and Generate a Signature - Part 2](https://www.youtube.com/watch?v=tyzYHN11eoY)
 - [Configuring an Amazon S3 Bucket to Store Signed Assets - Part 1](https://www.youtube.com/watch?v=UH3WrMkNMOE)
+- [Configuring Code Signing for AWS Lambda - Part 3](https://www.youtube.com/watch?v=NXOL2ecVOGo)
 - [Resize an EC2 instance using Systems Manager Automation - Part 3](https://www.youtube.com/watch?v=iILI5Fa2s6c)
 - [Patch Nodes Managed By AWS Systems Manager - Part 2](https://www.youtube.com/watch?v=qwT4wKGcM4c)
-- [Set up AWS Systems Manager using Quick Setup - Part 1](https://www.youtube.com/watch?v=d6N5Sk-5-jg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
