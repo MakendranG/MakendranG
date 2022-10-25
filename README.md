@@ -57,10 +57,10 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [What Is AWS OpsWorks?](https://www.youtube.com/watch?v=cSaCLCzN1Rk)
+- [Deploying a PHP Application Using AWS OpsWorks](https://www.youtube.com/watch?v=huaYDgcQaDE)
 - [Configuring Code Signing for AWS Lambda - Part 3](https://www.youtube.com/watch?v=NXOL2ecVOGo)
 - [Configuring a Signing Profile and Generate a Signature - Part 2](https://www.youtube.com/watch?v=tyzYHN11eoY)
 - [Configuring an Amazon S3 Bucket to Store Signed Assets - Part 1](https://www.youtube.com/watch?v=UH3WrMkNMOE)
-- [Resize an EC2 instance using Systems Manager Automation - Part 3](https://www.youtube.com/watch?v=iILI5Fa2s6c)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
