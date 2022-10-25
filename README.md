@@ -44,7 +44,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Configuring a Static Website With S3 &amp; Cloudfront Explained](https://makendrang.medium.com/configuring-a-static-website-with-s3-cloudfront-explained-d04372f7ece8?source=rss-eaa22dc681e3------2)
+- [Configuring a Static Website With S3 &amp; Cloudfront Explained](https://awstip.com/configuring-a-static-website-with-s3-cloudfront-explained-d04372f7ece8?source=rss-eaa22dc681e3------2)
 - [Conquer Your Fear from a Failed Job Interview in 7 Simple Steps](https://dev.to/makendrang/conquer-your-fear-from-a-failed-job-interview-in-7-simple-steps-ic9)
 - [Centralized Management by using AWS System Manager](https://dev.to/aws-builders/centralized-management-by-using-aws-system-manager-3g5j)
 - [Validating AWS Lambda Code Using AWS Signer](https://makendran.hashnode.dev/validating-aws-lambda-code-using-aws-signer)
