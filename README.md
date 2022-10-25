@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Configuring a Static Website With S3 &amp; Cloudfront Explained](https://makendrang.medium.com/configuring-a-static-website-with-s3-cloudfront-explained-d04372f7ece8?source=rss-eaa22dc681e3------2)
+- [Conquer Your Fear from a Failed Job Interview in 7 Simple Steps](https://dev.to/makendrang/conquer-your-fear-from-a-failed-job-interview-in-7-simple-steps-ic9)
 - [Centralized Management by using AWS System Manager](https://dev.to/aws-builders/centralized-management-by-using-aws-system-manager-3g5j)
 - [Validating AWS Lambda Code Using AWS Signer](https://makendran.hashnode.dev/validating-aws-lambda-code-using-aws-signer)
 - [Get Started with AWS Config Rules and Remediation](https://dev.to/makendrang/get-started-with-aws-config-rules-and-remediation-ip2)
-- [Contributing to Open-Source: My HacktoberFest Experience](https://makendrang.medium.com/contributing-to-open-source-my-hacktoberfest-experience-56f6410caec8?source=rss-eaa22dc681e3------2)
-- [How to Deploy Website Using Hugo on AWS Amplify in Ten Minutes](https://dev.to/makendrang/how-to-deploy-website-using-hugo-on-aws-amplify-in-ten-minutes-2bgi)
 <!-- BLOG-POST-LIST:END -->
 
 ---
