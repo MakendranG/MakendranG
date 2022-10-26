@@ -56,11 +56,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Creating an AWS CodeCommit Repository - Part 1](https://www.youtube.com/watch?v=VFYQJlW7Hdw)
+- [Committing Code to Your AWS CodeCommit Repository - Part 2](https://www.youtube.com/watch?v=OPAzTBPwtRQ)
 - [Deploying a PHP Application Using AWS OpsWorks](https://www.youtube.com/watch?v=huaYDgcQaDE)
 - [What Is AWS OpsWorks?](https://www.youtube.com/watch?v=cSaCLCzN1Rk)
 - [Configuring Code Signing for AWS Lambda - Part 3](https://www.youtube.com/watch?v=NXOL2ecVOGo)
-- [Configuring a Signing Profile and Generate a Signature - Part 2](https://www.youtube.com/watch?v=tyzYHN11eoY)
-- [Configuring an Amazon S3 Bucket to Store Signed Assets - Part 1](https://www.youtube.com/watch?v=UH3WrMkNMOE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
