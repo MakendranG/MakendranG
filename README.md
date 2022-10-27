@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Karpenter](https://dev.to/makendrang/introduction-to-karpenter-55hp)
 - [Deploy PHP applications using AWS OpsWorks](https://makendran.hashnode.dev/deploy-php-applications-using-aws-opsworks)
 - [Centralized Operations on AWS by using AWS System Manager - Part 2](https://dev.to/makendrang/centralized-operations-on-aws-by-using-aws-system-manager-part-2-3po4)
 - [Centralized Operations on AWS by using AWS System Manager - Part 1](https://dev.to/makendrang/centralized-operations-on-aws-by-using-aws-system-manager-part-1-5en0)
 - [Configuring a Static Website With S3 &amp; Cloudfront Explained](https://awstip.com/configuring-a-static-website-with-s3-cloudfront-explained-d04372f7ece8?source=rss-eaa22dc681e3------2)
-- [Conquer Your Fear from a Failed Job Interview in 7 Simple Steps](https://dev.to/makendrang/conquer-your-fear-from-a-failed-job-interview-in-7-simple-steps-ic9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
