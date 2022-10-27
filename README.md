@@ -58,9 +58,9 @@
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Committing Code to Your AWS CodeCommit Repository - Part 2](https://www.youtube.com/watch?v=OPAzTBPwtRQ)
 - [Creating an AWS CodeCommit Repository - Part 1](https://www.youtube.com/watch?v=VFYQJlW7Hdw)
+- [Building and Testing with AWS CodeBuild - Part 3](https://www.youtube.com/watch?v=iJGCxBJ3ZIg)
 - [Deploying a PHP Application Using AWS OpsWorks](https://www.youtube.com/watch?v=huaYDgcQaDE)
 - [What Is AWS OpsWorks?](https://www.youtube.com/watch?v=cSaCLCzN1Rk)
-- [Configuring Code Signing for AWS Lambda - Part 3](https://www.youtube.com/watch?v=NXOL2ecVOGo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
