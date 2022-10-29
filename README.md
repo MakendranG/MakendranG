@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is the Best Way to Prepare for the AZ-900 Exam?, Anyway?](https://makendrang.medium.com/what-is-the-best-way-to-prepare-for-the-az-900-exam-anyway-9fabb32fc0c?source=rss-eaa22dc681e3------2)
 - [Deploy PHP applications using AWS OpsWorks](https://dev.to/aws-builders/deploy-php-applications-using-aws-opsworks-4n1d)
 - [Difference between Cluster Autoscaler &amp; Karpenter](https://dev.to/makendrang/difference-between-cluster-autoscaler-karpenter-179n)
 - [Introduction to Karpenter](https://dev.to/makendrang/introduction-to-karpenter-55hp)
 - [Deploy PHP applications using AWS OpsWorks](https://makendran.hashnode.dev/deploy-php-applications-using-aws-opsworks)
-- [Centralized Operations on AWS by using AWS System Manager - Part 2](https://dev.to/makendrang/centralized-operations-on-aws-by-using-aws-system-manager-part-2-3po4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
