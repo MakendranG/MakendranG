@@ -60,7 +60,7 @@
 - [Building and Testing with AWS CodeBuild - Part 3](https://www.youtube.com/watch?v=iJGCxBJ3ZIg)
 - [Committing Code to Your AWS CodeCommit Repository - Part 2](https://www.youtube.com/watch?v=OPAzTBPwtRQ)
 - [Creating an AWS CodeCommit Repository - Part 1](https://www.youtube.com/watch?v=VFYQJlW7Hdw)
-- [Deploying a PHP Application Using AWS OpsWorks](https://www.youtube.com/watch?v=huaYDgcQaDE)
+- [Automating Your Deployment with AWS CodePipeline - Part 5](https://www.youtube.com/watch?v=EvGvuSymxic)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
