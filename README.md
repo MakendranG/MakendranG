@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Azure Kubernetes Service](https://makendrang.medium.com/understanding-azure-kubernetes-service-5569eb0ef500?source=rss-eaa22dc681e3------2)
+- [Understanding Azure Kubernetes Service](https://makendran.hashnode.dev/understanding-azure-kubernetes-service)
 - [Deploying Custom App Image to Container Apps using Azure Container Registry](https://makendrang.medium.com/deploying-custom-app-image-to-container-apps-using-azure-container-registry-a678a2a59b2f?source=rss-eaa22dc681e3------2)
 - [What is Azure Container Registry?](https://makendrang.medium.com/what-is-azure-container-registry-e559143afc9d?source=rss-eaa22dc681e3------2)
 - [What is Azure Container Registry?](https://makendran.hashnode.dev/what-is-azure-container-registry)
-- [Deploying Custom App Image to Container Apps using Azure Container Registry](https://makendran.hashnode.dev/deploying-custom-app-image-to-container-apps-using-azure-container-registry)
-- [Deploying PHP applications using AWS OpsWorks](https://dev.to/makendrang/deploying-php-applications-using-aws-opsworks-9ej)
 <!-- BLOG-POST-LIST:END -->
 
 ---
