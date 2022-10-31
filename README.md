@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Validating AWS Lambda Code Using AWS Signer](https://dev.to/aws-builders/validating-aws-lambda-code-using-aws-signer-2h73)
 - [Why is everyone building on GitHub?](https://dev.to/makendrang/why-is-everyone-building-on-github-1ig1)
 - [Contributing to Open-Source: My HacktoberFest Experience](https://dev.to/makendrang/contributing-to-open-source-my-hacktoberfest-experience-3828)
 - [Understanding Azure Kubernetes Service](https://makendrang.medium.com/understanding-azure-kubernetes-service-5569eb0ef500?source=rss-eaa22dc681e3------2)
 - [Understanding Azure Kubernetes Service](https://makendran.hashnode.dev/understanding-azure-kubernetes-service)
-- [Deploying Custom App Image to Container Apps using Azure Container Registry](https://makendrang.medium.com/deploying-custom-app-image-to-container-apps-using-azure-container-registry-a678a2a59b2f?source=rss-eaa22dc681e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
