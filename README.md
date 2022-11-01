@@ -57,10 +57,10 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Live Streaming with Amazon Interactive Video Service](https://www.youtube.com/watch?v=mAE47MVeWpY)
+- [Insert temporary metadata into a live stream using the Rest API](https://www.youtube.com/watch?v=fpZgc78L_J4)
 - [Recovering Automatically from a Failed Deployment - Part 7](https://www.youtube.com/watch?v=xVKv3ghDFhc)
 - [Following the Continuous Deployment Pipeline - Part 6](https://www.youtube.com/watch?v=Wtyk3dPv-KU)
 - [Automating Your Deployment with AWS CodePipeline - Part 5](https://www.youtube.com/watch?v=EvGvuSymxic)
-- [Deploying with AWS CodeDeploy - Part 4](https://www.youtube.com/watch?v=kDoiV9zmV4o)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
