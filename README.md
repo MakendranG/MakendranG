@@ -56,11 +56,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Live Streaming with Amazon Interactive Video Service](https://www.youtube.com/watch?v=mAE47MVeWpY)
 - [Recovering Automatically from a Failed Deployment - Part 7](https://www.youtube.com/watch?v=xVKv3ghDFhc)
 - [Following the Continuous Deployment Pipeline - Part 6](https://www.youtube.com/watch?v=Wtyk3dPv-KU)
 - [Automating Your Deployment with AWS CodePipeline - Part 5](https://www.youtube.com/watch?v=EvGvuSymxic)
 - [Deploying with AWS CodeDeploy - Part 4](https://www.youtube.com/watch?v=kDoiV9zmV4o)
-- [Building and Testing with AWS CodeBuild - Part 3](https://www.youtube.com/watch?v=iJGCxBJ3ZIg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
