@@ -56,11 +56,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Sending Personalized eNotifications for the Community Events via Amazon Pinpoint](https://www.youtube.com/watch?v=sYpKV16lIaU)
+- [Sending Personalized eNotifications via Amazon Pinpoint](https://www.youtube.com/watch?v=m5Fv0gdOtJo)
 - [Deploying Custom App Image to Container Apps using ACR](https://www.youtube.com/watch?v=Qu_o3Xupsj8)
 - [Live Streaming with Amazon Interactive Video Service](https://www.youtube.com/watch?v=mAE47MVeWpY)
 - [Insert temporary metadata into a live stream using the Rest API](https://www.youtube.com/watch?v=fpZgc78L_J4)
-- [Recovering Automatically from a Failed Deployment - Part 7](https://www.youtube.com/watch?v=xVKv3ghDFhc)
-- [Following the Continuous Deployment Pipeline - Part 6](https://www.youtube.com/watch?v=Wtyk3dPv-KU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
