@@ -56,11 +56,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Using AWS CodeDeploy Blue/Green Deployments in Your Pipeline - Part 8](https://www.youtube.com/watch?v=kqlbrmMH4Tw)
 - [Sending Personalized eNotifications via Amazon Pinpoint](https://www.youtube.com/watch?v=m5Fv0gdOtJo)
 - [Sending Personalized eNotifications for the Community Events via Amazon Pinpoint](https://www.youtube.com/watch?v=sYpKV16lIaU)
 - [Deploying Custom App Image to Container Apps using ACR](https://www.youtube.com/watch?v=Qu_o3Xupsj8)
 - [Live Streaming with Amazon Interactive Video Service](https://www.youtube.com/watch?v=mAE47MVeWpY)
-- [Insert temporary metadata into a live stream using the Rest API](https://www.youtube.com/watch?v=fpZgc78L_J4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
