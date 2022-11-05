@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The Essential Guide to Overview and Benefits of Gateway Load Balancer](https://dev.to/makendrang/the-essential-guide-to-overview-and-benefits-of-gateway-load-balancer-3c24)
-- [A Deep Dive Into Host a Web Application With Azure App Service](https://dev.to/makendrang/a-deep-dive-into-host-a-web-application-with-azure-app-service-pe9)
 - [Validating AWS Lambda Code Using AWS Signer](https://makendrang.medium.com/validating-aws-lambda-code-using-aws-signer-43abc60c17ba?source=rss-eaa22dc681e3------2)
 - [Deploy PHP applications using AWS OpsWorks](https://makendrang.medium.com/deploy-php-applications-using-aws-opsworks-8fbff1f7cd9c?source=rss-eaa22dc681e3------2)
-- [Validating AWS Lambda Code Using AWS Signer](https://dev.to/aws-builders/validating-aws-lambda-code-using-aws-signer-2h73)
+- [Understanding Azure Kubernetes Service](https://makendrang.medium.com/understanding-azure-kubernetes-service-5569eb0ef500?source=rss-eaa22dc681e3------2)
+- [Understanding Azure Kubernetes Service](https://makendran.hashnode.dev/understanding-azure-kubernetes-service)
+- [Deploying Custom App Image to Container Apps using Azure Container Registry](https://makendrang.medium.com/deploying-custom-app-image-to-container-apps-using-azure-container-registry-a678a2a59b2f?source=rss-eaa22dc681e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
