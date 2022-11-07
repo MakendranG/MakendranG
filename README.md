@@ -56,11 +56,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Understanding Azure Kubernetes Service](https://www.youtube.com/watch?v=X7Ilt3ihoRA)
 - [What is Azure Container Registry?](https://www.youtube.com/watch?v=Tb7tM_fpx1M)
 - [Using AWS CodeDeploy Blue/Green Deployments in Your Pipeline - Part 8](https://www.youtube.com/watch?v=kqlbrmMH4Tw)
 - [Sending Personalized eNotifications via Amazon Pinpoint](https://www.youtube.com/watch?v=m5Fv0gdOtJo)
 - [Sending Personalized eNotifications for the Community Events via Amazon Pinpoint](https://www.youtube.com/watch?v=sYpKV16lIaU)
-- [Deploying Custom App Image to Container Apps using ACR](https://www.youtube.com/watch?v=Qu_o3Xupsj8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
