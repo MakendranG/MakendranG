@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About Insights From the AZ-104 Bootcamp Session - Week 2](https://dev.to/makendrang/everything-you-need-to-know-about-insights-from-the-az-104-bootcamp-session-week-2-4ae6)
+- [Getting Started with Amazon Elastic Container Service with Fargate](https://makendrang.medium.com/getting-started-with-amazon-elastic-container-service-with-fargate-15fb57265eee?source=rss-eaa22dc681e3------2)
+- [Centralized Management by using AWS System Manager](https://makendrang.medium.com/centralized-management-by-using-aws-system-manager-29abffb8efbe?source=rss-eaa22dc681e3------2)
 - [Configuring a Static Website with S3 &amp; CloudFront Explained](https://dev.to/makendrang/configuring-a-static-website-with-s3-cloudfront-explained-259d)
 - [The Essential Guide to Overview and Benefits of Gateway Load Balancer](https://dev.to/makendrang/the-essential-guide-to-overview-and-benefits-of-gateway-load-balancer-3c24)
-- [A Deep Dive Into Host a Web Application With Azure App Service](https://dev.to/makendrang/a-deep-dive-into-host-a-web-application-with-azure-app-service-pe9)
-- [Validating AWS Lambda Code Using AWS Signer](https://makendrang.medium.com/validating-aws-lambda-code-using-aws-signer-43abc60c17ba?source=rss-eaa22dc681e3------2)
-- [Deploy PHP applications using AWS OpsWorks](https://makendrang.medium.com/deploy-php-applications-using-aws-opsworks-8fbff1f7cd9c?source=rss-eaa22dc681e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
