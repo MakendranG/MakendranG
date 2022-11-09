@@ -56,8 +56,8 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [What is AWS Elastic Beanstalk?](https://www.youtube.com/watch?v=L6jmAatY-pA)
 - [Creating an Elastic Beanstalk App &amp; Environment](https://www.youtube.com/watch?v=V4powDIY1LQ)
+- [What is AWS Elastic Beanstalk?](https://www.youtube.com/watch?v=L6jmAatY-pA)
 - [Understanding Azure Kubernetes Service](https://www.youtube.com/watch?v=X7Ilt3ihoRA)
 - [What is Azure Container Registry?](https://www.youtube.com/watch?v=Tb7tM_fpx1M)
 - [Using AWS CodeDeploy Blue/Green Deployments in Your Pipeline - Part 8](https://www.youtube.com/watch?v=kqlbrmMH4Tw)
