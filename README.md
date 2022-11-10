@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Continuous integration and deployment with code services](https://makendran.hashnode.dev/continuous-integration-and-deployment-with-code-services)
 - [Everything You Need to Know About Insights From the AZ-104 Bootcamp Session - Week 2](https://dev.to/makendrang/everything-you-need-to-know-about-insights-from-the-az-104-bootcamp-session-week-2-4ae6)
 - [Getting Started with Amazon Elastic Container Service with Fargate](https://makendrang.medium.com/getting-started-with-amazon-elastic-container-service-with-fargate-15fb57265eee?source=rss-eaa22dc681e3------2)
 - [Centralized Management by using AWS System Manager](https://makendrang.medium.com/centralized-management-by-using-aws-system-manager-29abffb8efbe?source=rss-eaa22dc681e3------2)
 - [Configuring a Static Website with S3 &amp; CloudFront Explained](https://dev.to/makendrang/configuring-a-static-website-with-s3-cloudfront-explained-259d)
-- [The Essential Guide to Overview and Benefits of Gateway Load Balancer](https://dev.to/makendrang/the-essential-guide-to-overview-and-benefits-of-gateway-load-balancer-3c24)
 <!-- BLOG-POST-LIST:END -->
 
 ---
