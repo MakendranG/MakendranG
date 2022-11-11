@@ -56,9 +56,9 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Running a rolling deployment in Elastic Beanstalk](https://www.youtube.com/watch?v=LI4sWMmecT8)
 - [Creating an Elastic Beanstalk App &amp; Environment](https://www.youtube.com/watch?v=V4powDIY1LQ)
 - [What is AWS Elastic Beanstalk?](https://www.youtube.com/watch?v=L6jmAatY-pA)
-- [Running a rolling deployment in Elastic Beanstalk](https://www.youtube.com/watch?v=LI4sWMmecT8)
 - [Understanding Azure Kubernetes Service](https://www.youtube.com/watch?v=X7Ilt3ihoRA)
 - [What is Azure Container Registry?](https://www.youtube.com/watch?v=Tb7tM_fpx1M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
