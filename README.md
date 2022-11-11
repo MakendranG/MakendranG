@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Continuous integration and deployment with code services](https://dev.to/aws-builders/continuous-integration-and-deployment-with-code-services-1l2i)
+- [How does BLST work](https://makendrang.medium.com/how-does-blst-work-634217b2ce1b?source=rss-eaa22dc681e3------2)
 - [What is Cherrybomb?](https://makendrang.medium.com/what-is-cherrybomb-d1cbda50ad4a?source=rss-eaa22dc681e3------2)
 - [Continuous integration and deployment with code services](https://makendran.hashnode.dev/continuous-integration-and-deployment-with-code-services)
 - [Everything You Need to Know About Insights From the AZ-104 Bootcamp Session - Week 2](https://dev.to/makendrang/everything-you-need-to-know-about-insights-from-the-az-104-bootcamp-session-week-2-4ae6)
-- [Getting Started with Amazon Elastic Container Service with Fargate](https://makendrang.medium.com/getting-started-with-amazon-elastic-container-service-with-fargate-15fb57265eee?source=rss-eaa22dc681e3------2)
-- [Centralized Management by using AWS System Manager](https://makendrang.medium.com/centralized-management-by-using-aws-system-manager-29abffb8efbe?source=rss-eaa22dc681e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
