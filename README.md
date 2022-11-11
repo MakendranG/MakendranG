@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About Insights From the AZ-104 Bootcamp Session - Week 3](https://dev.to/makendrang/everything-you-need-to-know-about-insights-from-the-az-104-bootcamp-session-week-3-45eg)
 - [Continuous integration and deployment with code services](https://dev.to/aws-builders/continuous-integration-and-deployment-with-code-services-1l2i)
 - [How does BLST work](https://makendrang.medium.com/how-does-blst-work-634217b2ce1b?source=rss-eaa22dc681e3------2)
 - [What is Cherrybomb?](https://makendrang.medium.com/what-is-cherrybomb-d1cbda50ad4a?source=rss-eaa22dc681e3------2)
 - [Continuous integration and deployment with code services](https://makendran.hashnode.dev/continuous-integration-and-deployment-with-code-services)
-- [Everything You Need to Know About Insights From the AZ-104 Bootcamp Session - Week 2](https://dev.to/makendrang/everything-you-need-to-know-about-insights-from-the-az-104-bootcamp-session-week-2-4ae6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
