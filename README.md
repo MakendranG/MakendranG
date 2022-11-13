@@ -56,11 +56,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Running a Blue-Green deployment in Elastic Beanstalk](https://www.youtube.com/watch?v=mYjF2v6E1dg)
 - [What is Amazon Time Sync public NTP?](https://www.youtube.com/watch?v=0nzykuTni-g)
 - [Running a rolling deployment in Elastic Beanstalk](https://www.youtube.com/watch?v=LI4sWMmecT8)
 - [Creating an Elastic Beanstalk App &amp; Environment](https://www.youtube.com/watch?v=V4powDIY1LQ)
 - [What is AWS Elastic Beanstalk?](https://www.youtube.com/watch?v=L6jmAatY-pA)
-- [Running a Blue-Green deployment in Elastic Beanstalk](https://www.youtube.com/watch?v=mYjF2v6E1dg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
