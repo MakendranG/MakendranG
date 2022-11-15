@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Continuous integration and deployment with AWS code services](https://makendrang.medium.com/continuous-integration-and-deployment-with-aws-code-services-4ffbe92707c9?source=rss-eaa22dc681e3------2)
 - [The Beginner’s Guide to Web Security Considerations](https://makendrang.medium.com/the-beginners-guide-to-web-security-considerations-e0040a02416b?source=rss-eaa22dc681e3------2)
 - [Nhost: The Perfect Backend 101: The Essential Guide](https://dev.to/makendrang/nhost-the-perfect-backend-101-the-essential-guide-3m34)
 - [What is Amazon Time Sync public NTP?](https://dev.to/aws-builders/what-is-amazon-time-sync-public-ntp-1omc)
 - [What is Amazon Time Sync public NTP?](https://makendran.hashnode.dev/what-is-amazon-time-sync-public-ntp)
-- [Everything You Need to Know About Insights From the AZ-104 Bootcamp Session - Week 3](https://dev.to/makendrang/everything-you-need-to-know-about-insights-from-the-az-104-bootcamp-session-week-3-45eg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
