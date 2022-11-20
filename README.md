@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Web Application Security Solutions](https://makendrang.medium.com/top-10-web-application-security-solutions-e38b7416557?source=rss-eaa22dc681e3------2)
 - [Key factors affecting website performance and how to combat them](https://makendrang.medium.com/key-factors-affecting-website-performance-and-how-to-combat-them-43a6e3064d6f?source=rss-eaa22dc681e3------2)
 - [Overview of Pulumi Deployments and Its Challenge Tutorial 101: The Essential Guide](https://makendran.hashnode.dev/overview-of-pulumi-deployments-and-its-challenge-tutorial-101-the-essential-guide)
 - [What is Azure Container Registry?](https://dev.to/makendrang/what-is-azure-container-registry-1f02)
 - [Continuous integration and deployment with AWS code services](https://makendrang.medium.com/continuous-integration-and-deployment-with-aws-code-services-4ffbe92707c9?source=rss-eaa22dc681e3------2)
-- [The Beginner’s Guide to Web Security Considerations](https://makendrang.medium.com/the-beginners-guide-to-web-security-considerations-e0040a02416b?source=rss-eaa22dc681e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
