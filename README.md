@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Deep Dive into Introduction to Computer Networking](https://dev.to/makendrang/a-deep-dive-into-introduction-to-computer-networking-ig7)
 - [The Fascinating Science of 9 Tips to Become a Software Developer](https://dev.to/makendrang/the-fascinating-science-of-9-tips-to-become-a-software-developer-2de9)
 - [5 Powerful Habits to Master for Success in Strengthen Your PROFESSIONAL PORTFOLIO](https://dev.to/makendrang/5-powerful-habits-to-master-for-success-in-strengthen-your-professional-portfolio-nn2)
 - [What is Amazon Time Sync public NTP?](https://makendrang.medium.com/what-is-amazon-time-sync-public-ntp-8e8d25bea7b2?source=rss-eaa22dc681e3------2)
 - [Top 10 Web Application Security Solutions](https://makendrang.medium.com/top-10-web-application-security-solutions-e38b7416557?source=rss-eaa22dc681e3------2)
-- [Key factors affecting website performance and how to combat them](https://makendrang.medium.com/key-factors-affecting-website-performance-and-how-to-combat-them-43a6e3064d6f?source=rss-eaa22dc681e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
