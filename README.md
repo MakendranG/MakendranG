@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [DevOps solution on Azure](https://makendrang.medium.com/devops-solution-on-azure-8fc3ac56af17?source=rss-eaa22dc681e3------2)
+- [The Beginner&#39;s Guide to 25 Best Developer Tools You Can’t Do Without](https://dev.to/makendrang/the-beginners-guide-to-25-best-developer-tools-you-cant-do-without-18dl)
+- [12 Unbelievable Things You Never Knew About What to Do When You’re Stuck on a Coding Problem](https://dev.to/makendrang/12-unbelievable-things-you-never-knew-about-what-to-do-when-youre-stuck-on-a-coding-problem-fli)
 - [A Deep Dive into Introduction to Computer Networking](https://dev.to/makendrang/a-deep-dive-into-introduction-to-computer-networking-ig7)
 - [The Fascinating Science of 9 Tips to Become a Software Developer](https://dev.to/makendrang/the-fascinating-science-of-9-tips-to-become-a-software-developer-2de9)
-- [5 Powerful Habits to Master for Success in Strengthen Your PROFESSIONAL PORTFOLIO](https://dev.to/makendrang/5-powerful-habits-to-master-for-success-in-strengthen-your-professional-portfolio-nn2)
-- [What is Amazon Time Sync public NTP?](https://makendrang.medium.com/what-is-amazon-time-sync-public-ntp-8e8d25bea7b2?source=rss-eaa22dc681e3------2)
-- [Top 10 Web Application Security Solutions](https://makendrang.medium.com/top-10-web-application-security-solutions-e38b7416557?source=rss-eaa22dc681e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
