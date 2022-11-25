@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the main technology stack for web development today?](https://makendrang.medium.com/what-is-the-main-technology-stack-for-web-development-today-45c971b459f7?source=rss-eaa22dc681e3------2)
 - [DevOps solution on Azure](https://makendrang.medium.com/devops-solution-on-azure-8fc3ac56af17?source=rss-eaa22dc681e3------2)
 - [The Beginner&#39;s Guide to 25 Best Developer Tools You Can’t Do Without](https://dev.to/makendrang/the-beginners-guide-to-25-best-developer-tools-you-cant-do-without-18dl)
 - [12 Unbelievable Things You Never Knew About What to Do When You’re Stuck on a Coding Problem](https://dev.to/makendrang/12-unbelievable-things-you-never-knew-about-what-to-do-when-youre-stuck-on-a-coding-problem-fli)
 - [A Deep Dive into Introduction to Computer Networking](https://dev.to/makendrang/a-deep-dive-into-introduction-to-computer-networking-ig7)
-- [The Fascinating Science of 9 Tips to Become a Software Developer](https://dev.to/makendrang/the-fascinating-science-of-9-tips-to-become-a-software-developer-2de9)
 <!-- BLOG-POST-LIST:END -->
 
 ---
