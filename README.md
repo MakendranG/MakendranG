@@ -56,11 +56,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to create a Shareable link for Azure Bastion](https://www.youtube.com/watch?v=5c2QBnfRxn0)
 - [Working of Blue/Green Deployment in AWS Elastic Beanstalk](https://www.youtube.com/watch?v=4n4L9IbnA-8)
 - [Running a Blue-Green deployment in Elastic Beanstalk](https://www.youtube.com/watch?v=mYjF2v6E1dg)
 - [What is Amazon Time Sync public NTP?](https://www.youtube.com/watch?v=0nzykuTni-g)
 - [Running a rolling deployment in Elastic Beanstalk](https://www.youtube.com/watch?v=LI4sWMmecT8)
-- [Creating an Elastic Beanstalk App &amp; Environment](https://www.youtube.com/watch?v=V4powDIY1LQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
