@@ -57,10 +57,10 @@
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Interacting with Amazon SQS using AWS Management Console](https://www.youtube.com/watch?v=xawKUJF7M8Y)
+- [Interacting with Amazon SQS using AWS CLI](https://www.youtube.com/watch?v=mZO7VLpGn5w)
 - [How to create a Shareable link for Azure Bastion](https://www.youtube.com/watch?v=5c2QBnfRxn0)
 - [Working of Blue/Green Deployment in AWS Elastic Beanstalk](https://www.youtube.com/watch?v=4n4L9IbnA-8)
 - [Running a Blue-Green deployment in Elastic Beanstalk](https://www.youtube.com/watch?v=mYjF2v6E1dg)
-- [What is Amazon Time Sync public NTP?](https://www.youtube.com/watch?v=0nzykuTni-g)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
