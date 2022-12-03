@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About Insights From the AZ-104 Bootcamp Session — Week 2](https://makendrang.medium.com/everything-you-need-to-know-about-insights-from-the-az-104-bootcamp-session-week-2-31bb2cad9032?source=rss-eaa22dc681e3------2)
+- [Why is DevSecOps so important?](https://makendrang.medium.com/why-is-devsecops-so-important-24f665e29a02?source=rss-eaa22dc681e3------2)
 - [Overview of Pulumi and Its Challenge Tutorial 101: The Essential Guide](https://dev.to/makendrang/overview-of-pulumi-and-its-challenge-tutorial-101-the-essential-guide-44jk)
 - [A Fascinating Behind-the-Scenes Look at How I Built a Harness CI Pipeline](https://dev.to/makendrang/a-fascinating-behind-the-scenes-look-at-how-i-built-a-harness-ci-pipeline-3d6b)
 - [How Top 17 New Technology Trends for 2022 Saved My Life](https://dev.to/makendrang/how-top-17-new-technology-trends-for-2022-saved-my-life-gik)
-- [Configuring an Azure function behind a NAT gateway to restrict outgoing IP addresses](https://makendran.hashnode.dev/configuring-an-azure-function-behind-a-nat-gateway-to-restrict-outgoing-ip-addresses)
-- [What is the main technology stack for web development today?](https://makendrang.medium.com/what-is-the-main-technology-stack-for-web-development-today-45c971b459f7?source=rss-eaa22dc681e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
