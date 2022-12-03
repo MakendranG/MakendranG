@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Overview of Pulumi and Its Challenge Tutorial 101: The Essential Guide](https://dev.to/makendrang/overview-of-pulumi-and-its-challenge-tutorial-101-the-essential-guide-44jk)
 - [A Fascinating Behind-the-Scenes Look at How I Built a Harness CI Pipeline](https://dev.to/makendrang/a-fascinating-behind-the-scenes-look-at-how-i-built-a-harness-ci-pipeline-3d6b)
 - [How Top 17 New Technology Trends for 2022 Saved My Life](https://dev.to/makendrang/how-top-17-new-technology-trends-for-2022-saved-my-life-gik)
 - [Configuring an Azure function behind a NAT gateway to restrict outgoing IP addresses](https://makendran.hashnode.dev/configuring-an-azure-function-behind-a-nat-gateway-to-restrict-outgoing-ip-addresses)
 - [What is the main technology stack for web development today?](https://makendrang.medium.com/what-is-the-main-technology-stack-for-web-development-today-45c971b459f7?source=rss-eaa22dc681e3------2)
-- [DevOps solution on Azure](https://makendrang.medium.com/devops-solution-on-azure-8fc3ac56af17?source=rss-eaa22dc681e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
