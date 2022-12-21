@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Memphis: Low-code real-time data processing platform](https://dev.to/makendrang/memphis-low-code-real-time-data-processing-platform-4pm4)
 - [The Essential Guide to 5 Key Importance of Cybersecurity](https://dev.to/makendrang/the-essential-guide-to-5-key-importance-of-cybersecurity-4cf)
 - [Learn Getting Started With Digitalocean Functions in Ten Minutes](https://dev.to/makendrang/learn-getting-started-with-digitalocean-functions-in-ten-minutes-3629)
 - [Configuring an Azure function behind a NAT gateway to restrict outgoing IP addresses](https://dev.to/makendrang/configuring-an-azure-function-behind-a-nat-gateway-to-restrict-outgoing-ip-addresses-421f)
 - [Everything You Need to Know About Insights From the AZ-104 Bootcamp Session — Week 2](https://makendrang.medium.com/everything-you-need-to-know-about-insights-from-the-az-104-bootcamp-session-week-2-31bb2cad9032?source=rss-eaa22dc681e3------2)
-- [Why is DevSecOps so important?](https://blog.devops.dev/why-is-devsecops-so-important-24f665e29a02?source=rss-eaa22dc681e3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
