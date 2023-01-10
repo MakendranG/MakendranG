@@ -33,11 +33,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/MakendranG/aws-sns-samples/pull/1) in [MakendranG/aws-sns-samples](https://github.com/MakendranG/aws-sns-samples)
-2. 🗣 Commented on [#1](https://github.com/MakendranG/MLH-Daily-Challenge/issues/1) in [MakendranG/MLH-Daily-Challenge](https://github.com/MakendranG/MLH-Daily-Challenge)
-3. ❗️ Opened issue [#1](https://github.com/MakendranG/MLH-Daily-Challenge/issues/1) in [MakendranG/MLH-Daily-Challenge](https://github.com/MakendranG/MLH-Daily-Challenge)
-4. 🗣 Commented on [#4980](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/4980) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-5. 🗣 Commented on [#4981](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/4981) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+1. 🗣 Commented on [#5251](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/5251) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+2. 💪 Opened PR [#5332](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/5332) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+3. 💪 Opened PR [#1](https://github.com/MakendranG/aws-sns-samples/pull/1) in [MakendranG/aws-sns-samples](https://github.com/MakendranG/aws-sns-samples)
+4. 🗣 Commented on [#1](https://github.com/MakendranG/MLH-Daily-Challenge/issues/1) in [MakendranG/MLH-Daily-Challenge](https://github.com/MakendranG/MLH-Daily-Challenge)
+5. ❗️ Opened issue [#1](https://github.com/MakendranG/MLH-Daily-Challenge/issues/1) in [MakendranG/MLH-Daily-Challenge](https://github.com/MakendranG/MLH-Daily-Challenge)
 <!--END_SECTION:activity-->
 
 ---
