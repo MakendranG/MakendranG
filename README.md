@@ -44,11 +44,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Validating AWS Lambda Code Using AWS Signer](https://dev.to/makendrang/validating-aws-lambda-code-using-aws-signer-5af2)
 - [Interact with Azure web applications using the Python SDK](https://dev.to/makendrang/interact-with-azure-web-applications-using-the-python-sdk-5h5f)
 - [Memphis: Low-code real-time data processing platform](https://dev.to/makendrang/memphis-low-code-real-time-data-processing-platform-4pm4)
 - [The Essential Guide to 5 Key Importance of Cybersecurity](https://dev.to/makendrang/the-essential-guide-to-5-key-importance-of-cybersecurity-4cf)
 - [Learn Getting Started With Digitalocean Functions in Ten Minutes](https://dev.to/makendrang/learn-getting-started-with-digitalocean-functions-in-ten-minutes-3629)
-- [Configuring an Azure function behind a NAT gateway to restrict outgoing IP addresses](https://dev.to/makendrang/configuring-an-azure-function-behind-a-nat-gateway-to-restrict-outgoing-ip-addresses-421f)
 <!-- BLOG-POST-LIST:END -->
 
 ---
