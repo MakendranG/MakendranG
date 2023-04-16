@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <a href="http://twitter.com/makendrang">
+  <a href="https://twitter.com/makendrang">
     <img src="https://img.shields.io/twitter/follow/makendrang?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Makendran's Twitter"/>
   </a>
   <a href="https://www.youtube.com/channel/UCevWQrMqmtd5feeSh-BWH_w?sub_confirmation=1">
