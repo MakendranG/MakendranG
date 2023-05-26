@@ -1,16 +1,21 @@
-name: Latest blog post workflow
+name: Update README
 
-    
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+on:
+  schedule:
+    # Runs every 30 minutes
+    - cron: '0 0 1 1 *'
+  workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          feed_list: "https://dev.to/feed/makendrang,https://medium.com/feed/@makendrang,https://makendran.hashnode.dev/rss.xml"
+          COMMIT_MSG: 'Updating activities by schedule'
+          MAX_LINES: 5
