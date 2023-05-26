@@ -1,8 +1,5 @@
 name: Update README
 
-on:
-  schedule:
-    # Runs every 30 minutes
     
   workflow_dispatch:
 
