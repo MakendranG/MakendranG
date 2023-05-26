@@ -90,7 +90,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makendrang&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact&langs_count=10&hide=javascript,html" alt="makendrang" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makendrang&show_icons=true&locale=en&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true" alt="makendrang" /></p>
+
 
 
 
