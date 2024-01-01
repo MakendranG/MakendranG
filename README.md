@@ -33,11 +33,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5251](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/5251) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-2. 💪 Opened PR [#5332](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/5332) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-3. 💪 Opened PR [#1](https://github.com/MakendranG/aws-sns-samples/pull/1) in [MakendranG/aws-sns-samples](https://github.com/MakendranG/aws-sns-samples)
-4. 🗣 Commented on [#1](https://github.com/MakendranG/MLH-Daily-Challenge/issues/1) in [MakendranG/MLH-Daily-Challenge](https://github.com/MakendranG/MLH-Daily-Challenge)
-5. ❗️ Opened issue [#1](https://github.com/MakendranG/MLH-Daily-Challenge/issues/1) in [MakendranG/MLH-Daily-Challenge](https://github.com/MakendranG/MLH-Daily-Challenge)
+1. ❗ Opened issue [#1917](https://github.com/aws-samples/serverless-patterns/issues/1917) in [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns)
+2. 💪 Opened PR [#1916](https://github.com/aws-samples/serverless-patterns/pull/1916) in [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns)
+3. ❗ Opened issue [#1893](https://github.com/aws-samples/serverless-patterns/issues/1893) in [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns)
+4. 💪 Opened PR [#1892](https://github.com/aws-samples/serverless-patterns/pull/1892) in [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns)
+5. ❗ Opened issue [#1873](https://github.com/aws-samples/serverless-patterns/issues/1873) in [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns)
 <!--END_SECTION:activity-->
 
 ---
