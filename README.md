@@ -33,11 +33,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1917](https://github.com/aws-samples/serverless-patterns/issues/1917) in [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns)
-2. 💪 Opened PR [#1916](https://github.com/aws-samples/serverless-patterns/pull/1916) in [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns)
-3. ❗ Opened issue [#1893](https://github.com/aws-samples/serverless-patterns/issues/1893) in [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns)
-4. 💪 Opened PR [#1892](https://github.com/aws-samples/serverless-patterns/pull/1892) in [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns)
-5. ❗ Opened issue [#1873](https://github.com/aws-samples/serverless-patterns/issues/1873) in [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns)
+1. 🗣 Commented on [#7076](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/7076#issuecomment-2425042712) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+2. ❗ Opened issue [#7076](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/7076) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+3. 💪 Opened PR [#7075](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/7075) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+4. ❗ Opened issue [#7073](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/7073) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+5. 💪 Opened PR [#7072](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/7072) in [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 <!--END_SECTION:activity-->
 
 ---
