@@ -56,11 +56,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [CertAI_Buddy: AI-Powered Certification Exam Assistant | Agent.ai Challenge Submission](https://www.youtube.com/watch?v=OBDLvfndwHA)
 - [Unlock Your Imagination: Escape Fantastical Worlds in Enigma, the AI-Powered Escape Room](https://www.youtube.com/watch?v=aghtMoNj9Lc)
 - [Holiday Shopping Challenge - Part 2](https://www.youtube.com/watch?v=u-jB4PSFBxw)
 - [Holiday Shopping Challenge - Part 1](https://www.youtube.com/watch?v=mSx8bnJe8CU)
 - [Interacting with Amazon SQS using AWS CLI](https://www.youtube.com/watch?v=mZO7VLpGn5w)
-- [Interacting with Amazon SQS using AWS Management Console](https://www.youtube.com/watch?v=xawKUJF7M8Y)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
