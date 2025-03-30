@@ -56,11 +56,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [🚀 Deploying AWS Infrastructure with Pulumi | Secrets, Security &amp; Automation! 🔐☁️](https://www.youtube.com/watch?v=XQif7xgrdSE)
 - [Auto-Generate GitHub READMEs in Seconds 🚀 &lpar;No AI Required!&rpar;](https://www.youtube.com/watch?v=w7zM8mHbCeo)
 - [CertAI_Buddy: AI-Powered Certification Exam Assistant | Agent.ai Challenge Submission](https://www.youtube.com/watch?v=OBDLvfndwHA)
 - [Unlock Your Imagination: Escape Fantastical Worlds in Enigma, the AI-Powered Escape Room](https://www.youtube.com/watch?v=aghtMoNj9Lc)
 - [Holiday Shopping Challenge - Part 2](https://www.youtube.com/watch?v=u-jB4PSFBxw)
-- [Holiday Shopping Challenge - Part 1](https://www.youtube.com/watch?v=mSx8bnJe8CU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
