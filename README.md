@@ -56,11 +56,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Deploy a Static Docsify Site on AWS S3 + CloudFront using Pulumi YAML | Full Guide with Fixes 🚀](https://www.youtube.com/watch?v=9Ye29nA-m9I)
 - [🚀 Deploy DynamoDB with Pulumi Inline Python | AWS Infrastructure as Code Made Simple!](https://www.youtube.com/watch?v=B4XGlMVE4l8)
 - [🚀 Deploying AWS Infrastructure with Pulumi | Secrets, Security &amp; Automation! 🔐☁️](https://www.youtube.com/watch?v=XQif7xgrdSE)
 - [Auto-Generate GitHub READMEs in Seconds 🚀 &lpar;No AI Required!&rpar;](https://www.youtube.com/watch?v=w7zM8mHbCeo)
 - [CertAI_Buddy: AI-Powered Certification Exam Assistant | Agent.ai Challenge Submission](https://www.youtube.com/watch?v=OBDLvfndwHA)
-- [Unlock Your Imagination: Escape Fantastical Worlds in Enigma, the AI-Powered Escape Room](https://www.youtube.com/watch?v=aghtMoNj9Lc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
