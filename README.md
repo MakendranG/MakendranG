@@ -56,7 +56,7 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Tic-Tac-Toe game](https://www.youtube.com/watch?v=xc2A4Ous9hI)
+- [Build a Smart Tic-Tac-Toe Game with Python &amp; AI | Amazon Q CLI Game Challenge 2025](https://www.youtube.com/watch?v=xc2A4Ous9hI)
 - [Retro Bliss! Driving My Neon Arcade Racer &#39;RetroWave Rider&#39; &lpar;Built with Amazon Q&rpar;](https://www.youtube.com/watch?v=OX_FY135MRI)
 - [Deploy a Static Docsify Site on AWS S3 + CloudFront using Pulumi YAML | Full Guide with Fixes 🚀](https://www.youtube.com/watch?v=9Ye29nA-m9I)
 - [🚀 Deploy DynamoDB with Pulumi Inline Python | AWS Infrastructure as Code Made Simple!](https://www.youtube.com/watch?v=B4XGlMVE4l8)
