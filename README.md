@@ -56,7 +56,7 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Intelligent Meeting Assistant with Kiro AI | Real-Time Transcription &amp; Action Item Detection](https://www.youtube.com/watch?v=w5F0b8CEERs)
+- [Intelligent Meeting Assistant with Kiro AI | Real-Time Transcription &amp; Action Item Detection](https://www.youtube.com/watch?v=aeQvpYle2IU)
 - [AI Study Buddy: Turn Text Notes Into Mind Maps + Audio | Google AI Challenge](https://www.youtube.com/watch?v=xf6bBipup4M)
 - [Build a Smart Tic-Tac-Toe Game with Python &amp; AI | Amazon Q CLI Game Challenge 2025](https://www.youtube.com/watch?v=xc2A4Ous9hI)
 - [Retro Bliss! Driving My Neon Arcade Racer &#39;RetroWave Rider&#39; &lpar;Built with Amazon Q&rpar;](https://www.youtube.com/watch?v=OX_FY135MRI)
