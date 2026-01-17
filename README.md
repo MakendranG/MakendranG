@@ -56,11 +56,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [AWS GenAI Certification: Exam Day Success + Career Impact | Early Adopter | Part 3](https://www.youtube.com/watch?v=nqx3hnSnb7o)
+- [AWS GenAI Certification: Week 2 Strategy + 375 Practice Questions | Part 2](https://www.youtube.com/watch?v=EeTD99v5CLY)
 - [AWS GenAI Professional: 2-Week Study Plan + Early Adopter Badge Winner | Part 1](https://www.youtube.com/watch?v=KiFPdR20NBg)
 - [I Built an AI Recipe App that SEES Your Ingredients with Google Gemini](https://www.youtube.com/watch?v=LKLAjVxQSaw)
 - [Intelligent Meeting Assistant with Kiro AI | Real-Time Transcription &amp; Action Item Detection](https://www.youtube.com/watch?v=aeQvpYle2IU)
-- [AI Study Buddy: Turn Text Notes Into Mind Maps + Audio | Google AI Challenge](https://www.youtube.com/watch?v=xf6bBipup4M)
-- [Build a Smart Tic-Tac-Toe Game with Python &amp; AI | Amazon Q CLI Game Challenge 2025](https://www.youtube.com/watch?v=xc2A4Ous9hI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
