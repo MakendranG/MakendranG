@@ -56,11 +56,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [I Built a Browser Game for the June Solstice — and Hid Alan Turing&#39;s Name in Binary](https://www.youtube.com/watch?v=XkLZW7T0tqY)
 - [MindMate AI 🤖 Build a Full App with NO CODE using MeDo | 3-Min Demo](https://www.youtube.com/watch?v=YyE1xvVDZZE)
 - [Screenshot to Bug Report using AI | Multimodal App with Gemini 3](https://www.youtube.com/watch?v=3wKXBH5aQS8)
 - [AWS GenAI Certification: Exam Day Success + Career Impact | Early Adopter | Part 3](https://www.youtube.com/watch?v=nqx3hnSnb7o)
 - [AWS GenAI Certification: Week 2 Strategy + 375 Practice Questions | Part 2](https://www.youtube.com/watch?v=EeTD99v5CLY)
-- [AWS GenAI Professional: 2-Week Study Plan + Early Adopter Badge Winner | Part 1](https://www.youtube.com/watch?v=KiFPdR20NBg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
