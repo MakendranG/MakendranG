@@ -56,11 +56,11 @@
 ### Latest YouTube videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [OpsMemory AI — Agentic SRE with Persistent Memory | CockroachDB × AWS Hackathon](https://www.youtube.com/watch?v=9EksTDweUOM)
 - [AuraFit Skin AI — Perfect Corp YouCam Hackathon Demo &lpar;Full Walkthrough&rpar;](https://www.youtube.com/watch?v=MT5TyS11l6g)
 - [I Built a Browser Game for the June Solstice — and Hid Alan Turing&#39;s Name in Binary](https://www.youtube.com/watch?v=XkLZW7T0tqY)
 - [MindMate AI 🤖 Build a Full App with NO CODE using MeDo | 3-Min Demo](https://www.youtube.com/watch?v=YyE1xvVDZZE)
 - [Screenshot to Bug Report using AI | Multimodal App with Gemini 3](https://www.youtube.com/watch?v=3wKXBH5aQS8)
-- [AWS GenAI Certification: Exam Day Success + Career Impact | Early Adopter | Part 3](https://www.youtube.com/watch?v=nqx3hnSnb7o)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
